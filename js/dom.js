@@ -1,3 +1,1 @@
-export default {
-  body: () => document.body
-}
+export const body = () => document.body
