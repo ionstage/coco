@@ -8,8 +8,6 @@
     "jcore": "^0.3.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.2.0",
-    "babelify": "^10.0.0",
     "browserify": "^16.2.3"
   },
   "private": true
