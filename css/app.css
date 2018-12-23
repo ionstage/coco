@@ -3,4 +3,8 @@
   -webkit-touch-callout: none;
   background-color: #fafafa;
   margin: 0;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
 }
