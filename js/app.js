@@ -1,3 +1,4 @@
+import './components/app-content.js'
 import Main from './components/main.js'
 
 const main = new Main({ element: document.body })
