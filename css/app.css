@@ -3,6 +3,4 @@ body {
   -webkit-touch-callout: none;
   background-color: #fafafa;
   color: #212121;
-  -webkit-transition: background-color .5s ease-in-out;
-  transition: background-color .5s ease-in-out;
 }
