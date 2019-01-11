@@ -1,6 +1,13 @@
 const template = document.createElement('template')
 
-template.innerHTML = `<input type="text" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">`
+template.innerHTML = `
+  <style>
+    :host {
+      display: inline-block;
+    }
+  </style>
+  <input type="text" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
+`
 
 class CocoTextInput extends HTMLElement {
   constructor () {
