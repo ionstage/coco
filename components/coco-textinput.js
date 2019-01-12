@@ -5,6 +5,11 @@ template.innerHTML = `
     :host {
       display: inline-block;
     }
+
+    input {
+      box-sizing: border-box;
+      height: 32px;
+    }
   </style>
   <input type="text" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
 `
