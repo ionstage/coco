@@ -8,6 +8,7 @@ template.innerHTML = `
     }
 
     input {
+      border-radius: 3px;
       box-sizing: border-box;
       height: 32px;
     }
