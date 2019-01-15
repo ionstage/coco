@@ -10,6 +10,7 @@ template.innerHTML = `
     input {
       border-radius: 3px;
       box-sizing: border-box;
+      color: #212121;
       height: 32px;
     }
   </style>
