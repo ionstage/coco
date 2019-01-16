@@ -11,6 +11,7 @@ template.innerHTML = `
       border-radius: 3px;
       box-sizing: border-box;
       color: #212121;
+      font-size: 16px;
       height: 32px;
     }
   </style>
