@@ -14,6 +14,7 @@ template.innerHTML = `
       color: #212121;
       font-size: 16px;
       height: 32px;
+      padding: 0 8px;
     }
   </style>
   <input type="text" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
