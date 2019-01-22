@@ -16,6 +16,7 @@ template.innerHTML = `
       height: 32px;
       margin: 0;
       padding: 0 8px;
+      width: 100%;
     }
   </style>
   <input type="text" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
