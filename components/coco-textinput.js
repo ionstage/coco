@@ -8,6 +8,7 @@ template.innerHTML = `
     }
 
     input {
+      -webkit-appearance: none;
       border: 1px solid #212121;
       border-radius: 3px;
       box-sizing: border-box;
