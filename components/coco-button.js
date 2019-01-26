@@ -1,6 +1,10 @@
 const template = document.createElement('template')
 
-template.innerHTML = `<button></button>`
+template.innerHTML = `
+  <button>
+    <slot></slot>
+  </button>
+`
 
 class CocoButton extends HTMLElement {
   constructor () {
