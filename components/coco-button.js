@@ -5,6 +5,10 @@ template.innerHTML = `
     :host {
       display: inline-block;
     }
+
+    button {
+      -webkit-appearance: none;
+    }
   </style>
   <button>
     <slot></slot>
