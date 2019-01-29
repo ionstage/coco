@@ -8,6 +8,7 @@ template.innerHTML = `
 
     button {
       -webkit-appearance: none;
+      border-radius: 3px;
     }
   </style>
   <button>
