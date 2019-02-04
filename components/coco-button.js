@@ -9,6 +9,7 @@ template.innerHTML = `
     button {
       -webkit-appearance: none;
       border-radius: 3px;
+      color: #212121;
     }
   </style>
   <button>
