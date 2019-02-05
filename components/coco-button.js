@@ -10,6 +10,7 @@ template.innerHTML = `
       -webkit-appearance: none;
       border-radius: 3px;
       color: #212121;
+      height: 32px;
     }
   </style>
   <button>
