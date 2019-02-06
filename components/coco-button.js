@@ -10,6 +10,7 @@ template.innerHTML = `
       -webkit-appearance: none;
       border-radius: 3px;
       color: #212121;
+      font-size: 16px;
       height: 32px;
     }
   </style>
