@@ -8,6 +8,7 @@ template.innerHTML = `
 
     button {
       -webkit-appearance: none;
+      background-color: #f5f5f5;
       border: 1px solid #212121;
       border-radius: 3px;
       color: #212121;
