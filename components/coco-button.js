@@ -14,6 +14,7 @@ template.innerHTML = `
       color: #212121;
       font-size: 16px;
       height: 32px;
+      margin: 0;
     }
   </style>
   <button>
