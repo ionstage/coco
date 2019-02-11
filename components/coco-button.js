@@ -13,6 +13,7 @@ template.innerHTML = `
       border: 1px solid #212121;
       border-radius: 3px;
       color: #212121;
+      cursor: pointer;
       font-size: 16px;
       height: 32px;
       margin: 0;
