@@ -18,6 +18,10 @@ template.innerHTML = `
       height: 32px;
       margin: 0;
     }
+
+    button:active {
+      background-color: #e0e0e0;
+    }
   </style>
   <button>
     <slot></slot>
