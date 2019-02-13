@@ -22,6 +22,10 @@ template.innerHTML = `
     button:active {
       background-color: #e0e0e0;
     }
+
+    slot {
+      pointer-events: none;
+    }
   </style>
   <button>
     <slot></slot>
