@@ -1,6 +1,13 @@
 const template = document.createElement('template')
 
-template.innerHTML = `<textarea></textarea>`
+template.innerHTML = `
+  <style>
+    :host {
+      display: inline-block;
+    }
+  </style>
+  <textarea></textarea>
+`
 
 class CocoTextarea extends HTMLElement {
   constructor () {
