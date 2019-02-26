@@ -5,6 +5,10 @@ template.innerHTML = `
     :host {
       display: inline-block;
     }
+
+    textarea {
+      -webkit-appearance: none;
+    }
   </style>
   <textarea></textarea>
 `
