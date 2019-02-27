@@ -8,6 +8,7 @@ template.innerHTML = `
 
     textarea {
       -webkit-appearance: none;
+      border-radius: 3px;
     }
   </style>
   <textarea></textarea>
