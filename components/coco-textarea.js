@@ -8,6 +8,7 @@ template.innerHTML = `
 
     textarea {
       -webkit-appearance: none;
+      border: 1px solid #212121;
       border-radius: 3px;
       color: #212121;
       font-size: 16px;
