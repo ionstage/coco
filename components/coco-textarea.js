@@ -12,6 +12,7 @@ template.innerHTML = `
       border-radius: 3px;
       color: #212121;
       font-size: 16px;
+      margin: 0;
     }
   </style>
   <textarea></textarea>
