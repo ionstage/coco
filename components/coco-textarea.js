@@ -14,6 +14,7 @@ template.innerHTML = `
       color: #212121;
       font-size: 16px;
       margin: 0;
+      padding: 8px;
     }
   </style>
   <textarea></textarea>
