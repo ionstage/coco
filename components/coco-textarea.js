@@ -11,6 +11,7 @@ template.innerHTML = `
       -webkit-appearance: none;
       border: 1px solid #212121;
       border-radius: 3px;
+      box-sizing: border-box;
       color: #212121;
       font-size: 16px;
       margin: 0;
