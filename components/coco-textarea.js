@@ -17,6 +17,7 @@ template.innerHTML = `
       margin: 0;
       padding: 8px;
       vertical-align: middle;
+      width: 100%;
     }
   </style>
   <textarea></textarea>
