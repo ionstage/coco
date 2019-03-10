@@ -14,6 +14,7 @@ template.innerHTML = `
       box-sizing: border-box;
       color: #212121;
       font-size: 16px;
+      height: 100%;
       margin: 0;
       padding: 8px;
       vertical-align: middle;
