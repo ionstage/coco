@@ -5,6 +5,7 @@ template.innerHTML = `
     :host {
       display: inline-block;
       padding: 8px;
+      width: 224px;
     }
 
     input {
