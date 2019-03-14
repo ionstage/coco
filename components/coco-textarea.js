@@ -4,6 +4,7 @@ template.innerHTML = `
   <style>
     :host {
       display: inline-block;
+      height: 104px;
       padding: 8px;
       width: 224px;
     }
